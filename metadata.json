@@ -1,0 +1,6 @@
+{
+  "name": "Ferrum Architecture Explorer",
+  "description": "Interactive 5-layer system architecture explorer, topology repair workbench, and step-by-step voice command flow simulator for the Ferrum Python assistant.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
